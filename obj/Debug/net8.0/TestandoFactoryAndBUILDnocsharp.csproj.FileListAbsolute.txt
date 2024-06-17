@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\programação\TestandoFactoryAndBUILDnocsharp\obj\Debug\net8.0\TestandoFactoryAndBUILDnocsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\programação\TestandoFactoryAndBUILDnocsharp\obj\Debug\net8.0\TestandoFactoryAndBUILDnocsharp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\programação\TestandoFactoryAndBUILDnocsharp\obj\Debug\net8.0\TestandoFactoryAndBUILDnocsharp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\programação\TestandoFactoryAndBUILDnocsharp\obj\Debug\net8.0\TestandoFactoryAndBUILDnocsharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\programação\TestandoFactoryAndBUILDnocsharp\bin\Debug\net8.0\TestandoFactoryAndBUILDnocsharp.exe
+C:\Users\Admin\Desktop\programação\TestandoFactoryAndBUILDnocsharp\bin\Debug\net8.0\TestandoFactoryAndBUILDnocsharp.deps.json
+C:\Users\Admin\Desktop\programação\TestandoFactoryAndBUILDnocsharp\bin\Debug\net8.0\TestandoFactoryAndBUILDnocsharp.runtimeconfig.json
+C:\Users\Admin\Desktop\programação\TestandoFactoryAndBUILDnocsharp\bin\Debug\net8.0\TestandoFactoryAndBUILDnocsharp.dll
+C:\Users\Admin\Desktop\programação\TestandoFactoryAndBUILDnocsharp\bin\Debug\net8.0\TestandoFactoryAndBUILDnocsharp.pdb
+C:\Users\Admin\Desktop\programação\TestandoFactoryAndBUILDnocsharp\obj\Debug\net8.0\TestandoFactoryAndBUILDnocsharp.dll
+C:\Users\Admin\Desktop\programação\TestandoFactoryAndBUILDnocsharp\obj\Debug\net8.0\refint\TestandoFactoryAndBUILDnocsharp.dll
+C:\Users\Admin\Desktop\programação\TestandoFactoryAndBUILDnocsharp\obj\Debug\net8.0\TestandoFactoryAndBUILDnocsharp.pdb
+C:\Users\Admin\Desktop\programação\TestandoFactoryAndBUILDnocsharp\obj\Debug\net8.0\TestandoFactoryAndBUILDnocsharp.genruntimeconfig.cache
+C:\Users\Admin\Desktop\programação\TestandoFactoryAndBUILDnocsharp\obj\Debug\net8.0\ref\TestandoFactoryAndBUILDnocsharp.dll
