@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestandoFactoryAndBUILDnocsharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05eeb9381dfd49fa5953c74da34c74ad523a59c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestandoFactoryAndBUILDnocsharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestandoFactoryAndBUILDnocsharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
